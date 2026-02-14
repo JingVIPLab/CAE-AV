@@ -32,7 +32,7 @@ This repository is the official implementation of our paper "CAE-AV: Improving A
 
 ### Codes
 
-Our code is based on [AVMoE]([yingchengy/AVMOE: [NeurIPS 2024\] Mixture of Experts for Audio-Visual Learning](https://github.com/yingchengy/AVMOE)).
+Our code is based on [AVMoE](https://github.com/yingchengy/AVMOE).
 
 The models corresponding to the downstream tasks have been placed in the respective folders, specifically in `./CAE-AV/AVE/nets`, `./CAE-AV/AVQA/net_grd_avst`, `./CAE-AV/AVS/avs_scripts`, and `./CAE-AV/AVVP/nets`.
 
